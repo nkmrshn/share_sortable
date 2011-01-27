@@ -8,8 +8,8 @@ Installation
 
 Run these commands:
 
-    $ git clone git://github.com/nkmrshn/share-sortable.git
-    $ cd share-sortable
+    $ git clone git://github.com/nkmrshn/share_sortable.git
+    $ cd share_sortable
     $ bundle install
 
 Run
