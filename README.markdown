@@ -1,7 +1,7 @@
 Share Sortable
 ==============
 
-This is an example application to share [jQuery Sortable](http://jqueryui.com/demos/sortable/) with [em-websocet](https://github.com/igrigorik/em-websocket).
+This is an example application to share [jQuery Sortable](http://jqueryui.com/demos/sortable/) by using [em-websocet](https://github.com/igrigorik/em-websocket).
 
 Installation
 ------------
